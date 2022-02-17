@@ -34,8 +34,8 @@ Currently working as QA Engineer, I love creating Test automation for website us
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wisnuwm&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuwm&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=wisnuwm&theme=highcontrast&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuwm&theme=highcontrast&show_icons=true&layout=compact" height=180 />
 </p>
 <!-- 
 ### Let's connect!
