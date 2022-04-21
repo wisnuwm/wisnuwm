@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Wisnu!
-Currently working as QA Engineer, I love creating Test automation for website using Selenium Java and also mobile using Appium Java.
+Currently working as QA Engineer, i have knowledge to create web automation using cucumber selenium java and robot framework. Create mobile(Android and iOS) automation using cucumber appium java and robot framework. And API Testing using Postman.
 
 <!-- ### Tools:
 <p>
