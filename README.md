@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Wisnu!
-Currently working as QA Engineer, i have knowledge to create web automation using cucumber selenium java and robot framework. Create mobile(Android and iOS) automation using cucumber appium java and robot framework. And API Testing using Postman.
+Currently working as QA Engineer, Having knowledge to create web automation using cucumber selenium java, robot framework and Cypress. Create mobile(Android and iOS) automation using cucumber appium java and robot framework. API Testing using Postman. And having knowledge about Tasks Management Tools such a Jira and Azure DevOps.
 
 <!-- ### Tools:
 <p>
