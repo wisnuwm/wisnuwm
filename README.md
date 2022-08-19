@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Wisnu!
-Currently working as QA Engineer, Having knowledge to create web automation using cucumber selenium java, robot framework and Cypress. Create mobile(Android and iOS) automation using cucumber appium java and robot framework. API Testing using Postman. And having knowledge about Tasks Management Tools such a Jira and Azure DevOps.
+Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps..
 
 <!-- ### Tools:
 <p>
@@ -33,15 +33,36 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wisnuwm&theme=highcontrast&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuwm&theme=highcontrast&show_icons=true&layout=compact" height=180 />
+<p align="left">
+<a href="https://github.com/wisnuwm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wisnuwm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnuwm&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-<!-- 
+
+### Tech
+![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
+![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
+![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
+![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
+![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
+![Robot Framework](https://img.shields.io/badge/-robotframework-181717?style=for-the-badge&logo=robotframework)
+![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![Karate Framework](https://img.shields.io/badge/-karate-181717?style=for-the-badge&logo=karate)
+![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![Microsoft SQL](https://img.shields.io/badge/-mssql-181717?style=for-the-badge&logo=mssql)
+![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
+![Confluence](https://img.shields.io/badge/-confluence-181717?style=for-the-badge&logo=confluence)
+![Azure DevOps](https://img.shields.io/badge/-azuredevops-181717?style=for-the-badge&logo=azuredevops)
+![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
 ### Let's connect!
 <p>
-    <a href="https://linkedin.wisnuwm.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</p> -->
+    <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://linkedin.wisnuwm.com" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
+</p>
