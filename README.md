@@ -43,12 +43,13 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ### Tech
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
+![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Robot Framework](https://img.shields.io/badge/-robotframework-181717?style=for-the-badge&logo=robotframework)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![Newman](https://img.shields.io/badge/-newman-181717?style=for-the-badge&logo=newman)
 ![Karate Framework](https://img.shields.io/badge/-karate-181717?style=for-the-badge&logo=karate)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
@@ -64,5 +65,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 <p>
     <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
     <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+     <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
 </p>
