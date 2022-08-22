@@ -24,6 +24,8 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
  -->
+ 
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -59,6 +61,9 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Azure DevOps](https://img.shields.io/badge/-azuredevops-181717?style=for-the-badge&logo=azuredevops)
 ![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ### Let's connect!
