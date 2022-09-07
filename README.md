@@ -17,8 +17,8 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 # Table of contents
 <!--ts-->
-   * [Tools](#tools)
    * [Stats](#stats)
+   * [Tools](#tools)
    * [Bincang QA](#%EF%B8%8Fbincang-qa)
         * [SQA Journey Path](#sqa-journey-path)
         * [Postman Tutorial](#postman)
@@ -28,7 +28,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 <!--te-->
  
 
-## 📈Stats:
+## 📈Stats
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working as QA Engineer</br>
