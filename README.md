@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 # Hi there 👋 , I'm Wisnu!
 Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps..
 
-<!-- ### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
-</p>
- -->
+# Table of contents
+<!--ts-->
+   * [Tools](#tools)
+   * [Stats](#stats)
+   * [Bincang QA](#%EF%B8%8Fbincang-qa)
+        * [SQA Journey Path](#sqa-journey-path)
+        * [Postman Tutorial](#postman)
+        * [Tips & Trick SQA](#tips--trick)
+   * [Lets connect](#lets-connect)
+   * [Contact me](#contact-me)
+<!--te-->
  
 
 ## 📈Stats:
