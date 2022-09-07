@@ -26,7 +26,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
  -->
  
 
-### Stats:
+## 📈Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working as QA Engineer</br>
@@ -42,7 +42,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </a>
 </p>
 
-### Tech
+## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
@@ -64,9 +64,38 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## ▶️Bincang QA
+<details>
+ <summary><strong>Bincang QA Content</strong></summary>
+    
+### SQA Journey Path
+   * [PART 1 Pengenalan SQA](https://youtu.be/IrWbKeLGi2A)</br>
+   * [PART 2 Jenis -Jenis Testing](https://youtu.be/rSaNoVtjqcE)</br>
+   * [PART 3 Test Cases](https://youtu.be/GSnePKaLAHA)
+   * [PART 4 Manual Web Testing](https://youtu.be/SY5vatZyVJ8)
+   * [PART 5 BDD, Cucumber dan Gherkin](https://youtu.be/fqVj00ckiRg)
+   * [PART 6.1 API Testing](https://youtu.be/fJxmR2N8Eqs)
+   * [PART 6.2 API Testing dengan Postman](https://youtu.be/jo8CP4oarJ0)
+   * [PART 6.3 API Automation dengan Karate](https://youtu.be/9zBNRlUWALs)
+   * [PART 7.1 Pengenalan & Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
+   * [PART 7.2 Web Automation dengan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
+   
+### Postman
+   * [PART 1 Pengenalan & Setup Postman](https://youtu.be/J9SLWV3AAz0)
+   * [PART 2 Simple API Testing menggunakan Postman](https://youtu.be/k243eSg8z9g)
+   * [PART 3 Pengunaan Environment](https://youtu.be/ASBcVfmbKFI)
+   * [PART 4 Postman Assertions](https://youtu.be/R8ea2uqiwmk)
+   * [PART 5 Pengenalan & Setup Newman](https://youtu.be/-7NiQDu7ZGk)
+   * [PART 6 API Testing menggunakan Newman](https://youtu.be/C6nTVRepvYs)
+   
+### Tips & Trick
+   * [Portofolio untuk seorang SQA](https://youtu.be/lgp9LIejOOI)
+   * [Tugas seorang Junior SQA](https://youtu.be/SeDQTXIkFig)
+ 
+</details>
 
 
-### Let's connect!
+## 🔗Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
      <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
@@ -74,7 +103,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </p>
 
 
-### Contact me
+### 📝Contact me
 <p>
     <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
