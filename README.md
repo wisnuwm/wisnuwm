@@ -98,7 +98,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </p>
 
 
-### 📝Contact me
+### 📝Connect me
 <p>
     <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
