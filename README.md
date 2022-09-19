@@ -23,7 +23,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
         * [SQA Journey Path](#sqa-journey-path)
         * [Postman Tutorial](#postman)
         * [Tips & Trick SQA](#tips--trick)
-   * [Lets connect](#lets-connect)
+   * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
  
@@ -89,7 +89,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </details>
 
 
-## 🔗Contact
+## 🔗Connect
 <p>
     <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
      <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
@@ -98,7 +98,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </p>
 
 
-### 📝Connect me
+### 📝Contact me!
 <p>
     <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
